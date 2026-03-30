@@ -1,0 +1,1 @@
+{"manifest_version":3,"name":"PromptTune","version":"0.1.0","action":{"default_title":"PromptTune","default_popup":"popup.html"},"permissions":["storage","clipboardWrite","tabs","sidePanel"],"host_permissions":["http://localhost:8000/*"],"background":{"service_worker":"background.js"},"side_panel":{"default_path":"sidepanel.html"}}
